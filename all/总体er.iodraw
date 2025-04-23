@@ -7,7 +7,7 @@
         <mxCell id="twGe1aRzgxua3GcOn2MZ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="twGe1aRzgxua3GcOn2MZ-1" target="twGe1aRzgxua3GcOn2MZ-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="twGe1aRzgxua3GcOn2MZ-1" value="广西非物质文化遗产网站系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="twGe1aRzgxua3GcOn2MZ-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="twGe1aRzgxua3GcOn2MZ-3" value="管理" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
