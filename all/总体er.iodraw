@@ -30,7 +30,7 @@
         <mxCell id="twGe1aRzgxua3GcOn2MZ-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="twGe1aRzgxua3GcOn2MZ-9" target="twGe1aRzgxua3GcOn2MZ-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="twGe1aRzgxua3GcOn2MZ-9" value="商品信息" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="twGe1aRzgxua3GcOn2MZ-9" value="非物质文化资讯" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="340" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="twGe1aRzgxua3GcOn2MZ-11" value="查询" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
