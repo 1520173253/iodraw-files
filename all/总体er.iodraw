@@ -29,7 +29,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="twGe1aRzgxua3GcOn2MZ-7" value="属于" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="twGe1aRzgxua3GcOn2MZ-7" value="查询" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="360" y="250" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="twGe1aRzgxua3GcOn2MZ-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="twGe1aRzgxua3GcOn2MZ-9" target="twGe1aRzgxua3GcOn2MZ-19" edge="1">
@@ -72,17 +72,6 @@
         <mxCell id="twGe1aRzgxua3GcOn2MZ-25" value="管理" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry y="710" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="twGe1aRzgxua3GcOn2MZ-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="twGe1aRzgxua3GcOn2MZ-23" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="770" y="480" as="sourcePoint" />
-            <mxPoint x="790" y="570" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="twGe1aRzgxua3GcOn2MZ-54" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="twGe1aRzgxua3GcOn2MZ-31" vertex="1" connectable="0">
-          <mxGeometry x="-0.0939" y="7" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="twGe1aRzgxua3GcOn2MZ-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="twGe1aRzgxua3GcOn2MZ-17" target="twGe1aRzgxua3GcOn2MZ-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="90" y="330" as="sourcePoint" />
@@ -109,12 +98,6 @@
         <mxCell id="twGe1aRzgxua3GcOn2MZ-56" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="twGe1aRzgxua3GcOn2MZ-36" vertex="1" connectable="0">
           <mxGeometry x="0.0108" y="8" relative="1" as="geometry">
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="twGe1aRzgxua3GcOn2MZ-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="770" y="420" as="sourcePoint" />
-            <mxPoint x="770" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="twGe1aRzgxua3GcOn2MZ-40" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="twGe1aRzgxua3GcOn2MZ-9" edge="1">
@@ -156,12 +139,6 @@
         </mxCell>
         <mxCell id="twGe1aRzgxua3GcOn2MZ-46" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="395" y="188" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="twGe1aRzgxua3GcOn2MZ-47" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="twGe1aRzgxua3GcOn2MZ-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="730" y="150" as="sourcePoint" />
-            <mxPoint x="660" y="160" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="twGe1aRzgxua3GcOn2MZ-49" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="twGe1aRzgxua3GcOn2MZ-5" target="twGe1aRzgxua3GcOn2MZ-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
